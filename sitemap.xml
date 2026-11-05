@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://malkiel2.github.io/codedrop/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malkiel2.github.io/codedrop/"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://malkiel2.github.io/codedrop/he/"/>
+  </url>
+  <url>
+    <loc>https://malkiel2.github.io/codedrop/he/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malkiel2.github.io/codedrop/"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://malkiel2.github.io/codedrop/he/"/>
+  </url>
+  <url>
+    <loc>https://malkiel2.github.io/codedrop/download/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malkiel2.github.io/codedrop/download/"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://malkiel2.github.io/codedrop/he/download/"/>
+  </url>
+  <url>
+    <loc>https://malkiel2.github.io/codedrop/he/download/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malkiel2.github.io/codedrop/download/"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://malkiel2.github.io/codedrop/he/download/"/>
+  </url>
+  <url>
+    <loc>https://malkiel2.github.io/codedrop/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malkiel2.github.io/codedrop/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://malkiel2.github.io/codedrop/he/privacy/"/>
+  </url>
+  <url>
+    <loc>https://malkiel2.github.io/codedrop/he/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malkiel2.github.io/codedrop/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://malkiel2.github.io/codedrop/he/privacy/"/>
+  </url>
+  <url>
+    <loc>https://malkiel2.github.io/codedrop/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malkiel2.github.io/codedrop/terms/"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://malkiel2.github.io/codedrop/he/terms/"/>
+  </url>
+  <url>
+    <loc>https://malkiel2.github.io/codedrop/he/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malkiel2.github.io/codedrop/terms/"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://malkiel2.github.io/codedrop/he/terms/"/>
+  </url>
+  <url>
+    <loc>https://malkiel2.github.io/codedrop/support/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malkiel2.github.io/codedrop/support/"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://malkiel2.github.io/codedrop/he/support/"/>
+  </url>
+  <url>
+    <loc>https://malkiel2.github.io/codedrop/he/support/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malkiel2.github.io/codedrop/support/"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://malkiel2.github.io/codedrop/he/support/"/>
+  </url>
+</urlset>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+<rect id="background" width="1024" height="1024" fill="#071936"/>
+<path id="c-mark" d="M 678.5 672.7 A 250 250 0 1 1 678.5 351.3" fill="none" stroke="#4FE3DF" stroke-width="120" stroke-linecap="round"/>
+<g id="code-pill"><rect x="447" y="437.0" width="400" height="150" rx="75.0" fill="#E9F9FC"/><circle cx="563.0" cy="512" r="23" fill="#071936"/><circle cx="647.0" cy="512" r="23" fill="#071936"/><circle cx="731.0" cy="512" r="23" fill="#071936"/></g>
+</svg>
